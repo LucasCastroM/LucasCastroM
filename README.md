@@ -55,7 +55,7 @@ Incluye proyectos, contacto y experiencia.
 ## 📫 Contacto
 
 - 📧 Email: [lucascastromontano@gmail.com](mailto:lucascastromontano@gmail.com)
-- 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/lucas-agustín-castro-montaño-)
+- 💼 LinkedIn:[Lucas Agustín Castro Montaño](https://www.linkedin.com/in/lucas-agustín-castro-montaño-)
 - 🌎 Portfolio: [lucascastrom.github.io](https://lucascastrom.github.io)
 
 ---
