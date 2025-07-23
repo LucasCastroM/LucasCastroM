@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://lucascastrom.github.io" target="_blank">🌐 Portfolio</a> •
   <a href="https://github.com/LucasCastroM" target="_blank">🐱 GitHub</a> •
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">💼 LinkedIn</a>
+  <a href="www.linkedin.com/in/lucas-agustín-castro-montaño-" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
@@ -38,6 +38,8 @@ Incluye proyectos, contacto y experiencia.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -52,8 +54,8 @@ Incluye proyectos, contacto y experiencia.
 
 ## 📫 Contacto
 
-- 📧 Email: [lucas@email.com](mailto:lucas@email.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-linkedin](https://linkedin.com/in/tu-linkedin)
+- 📧 Email: [lucascastromontano@gmail.com](mailto:lucascastromontano@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tu-linkedin]([https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/lucas-agust%C3%ADn-castro-monta%C3%B1o-/))
 - 🌎 Portfolio: [lucascastrom.github.io](https://lucascastrom.github.io)
 
 ---
