@@ -48,7 +48,7 @@ Incluye proyectos, contacto y experiencia.
 | Proyecto | Descripción | Repositorio |
 |---------|-------------|-------------|
 | 🧾 **Gestor de Empleados (Python)** | App con herencia de clases y cálculo de salarios | [Ver en GitHub](https://github.com/LucasCastroM/gestor-empleados) |
-| 🐾 **Tienda de Mascotas (HTML/JS)** | Web estática simulando e-commerce de mascotas | [Ver en GitHub](https://github.com/LucasCastroM/tienda-mascotas) |
+| 🐾 **Tienda de Mascotas (HTML/JS)** | Web estática simulando e-commerce de mascotas | [Ver en GitHub](https://github.com/soniapachecomza/mascotas) |
 
 ---
 
