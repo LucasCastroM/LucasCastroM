@@ -1,27 +1,63 @@
-# 👋 Lucas Castro Montaño
+<h1 align="center">👨‍💻 Lucas Castro Montaño</h1>
 
-**Programador Python Junior | Desarrollo Web**
+<p align="center">
+  <strong>Programador Python Junior</strong> | Desarrollo Web | Estudiante de TUP (UNSa)  
+</p>
 
-🎓 Estudiante avanzado de la Tecnicatura en Programación (UNSa)  
-📜 Certificado por IBM en Web Development with Python  
-🤖 En formación en IA aplicada con Cursor IDE
+<p align="center">
+  <a href="https://lucascastrom.github.io" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/LucasCastroM" target="_blank">🐱 GitHub</a> •
+  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">💼 LinkedIn</a>
+</p>
+
+---
+
+## 📚 Sobre mí
+
+🎓 Estudiante avanzado de la **Tecnicatura en Programación** en la Universidad Nacional de Salta (UNSa).  
+🧠 Certificado en **Desarrollo Web con Python** (IBM SkillsBuild).  
+🤖 En formación en **Inteligencia Artificial aplicada** con Cursor IDE.  
+💼 Experiencia previa en **atención técnica**, control de inventario y soporte.
 
 ---
 
 ## 🚀 Portfolio Online
 
-📍 [https://lucascastrom.github.io](https://lucascastrom.github.io)
+🔗 Mi portfolio personal está alojado en GitHub Pages:  
+👉 [lucascastrom.github.io](https://lucascastrom.github.io)
+
+Incluye proyectos, contacto y experiencia.
 
 ---
 
-## 💼 Proyectos Destacados
+## 🛠️ Tecnologías que uso
 
-- [Gestor de Empleados (Python)](https://github.com/LucasCastroM/gestor-empleados): App orientada a objetos para calcular salarios.
-- [Tienda de Mascotas (HTML/JS)](https://github.com/LucasCastroM/tienda-mascotas): Web de ejemplo para e-commerce.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 🧪 Proyectos Destacados
+
+| Proyecto | Descripción | Repositorio |
+|---------|-------------|-------------|
+| 🧾 **Gestor de Empleados (Python)** | App con herencia de clases y cálculo de salarios | [Ver en GitHub](https://github.com/LucasCastroM/gestor-empleados) |
+| 🐾 **Tienda de Mascotas (HTML/JS)** | Web estática simulando e-commerce de mascotas | [Ver en GitHub](https://github.com/LucasCastroM/tienda-mascotas) |
 
 ---
 
 ## 📫 Contacto
 
-📧 lucas@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/tu-linkedin)
+- 📧 Email: [lucas@email.com](mailto:lucas@email.com)
+- 💼 LinkedIn: [linkedin.com/in/tu-linkedin](https://linkedin.com/in/tu-linkedin)
+- 🌎 Portfolio: [lucascastrom.github.io](https://lucascastrom.github.io)
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 👋
+</p>
