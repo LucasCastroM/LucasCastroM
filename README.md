@@ -16,7 +16,7 @@
 
 🎓 Estudiante avanzado de la **Tecnicatura en Programación** en la Universidad Nacional de Salta (UNSa).  
 🧠 Certificado en **Desarrollo Web con Python** (IBM SkillsBuild).  
-🤖 En formación en **Inteligencia Artificial aplicada** con Cursor IDE.  
+🤖 Certificado en **Inteligencia Artificial aplicada** con Cursor IDE.  
 💼 Experiencia previa en **atención técnica**, control de inventario y soporte.
 
 ---
