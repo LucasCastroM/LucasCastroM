@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  /* <a href="https://lucascastrom.github.io" target="_blank">🌐 Portfolio</a> • */
   <a href="www.linkedin.com/in/lucas-agustín-castro-montaño-" target="_blank">💼 LinkedIn</a>
 </p>
 
