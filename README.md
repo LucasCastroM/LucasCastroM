@@ -17,17 +17,6 @@
 🤖 Certificado en **Inteligencia Artificial aplicada** con Cursor IDE.  
 💼 Experiencia previa en **atención técnica**, control de inventario y soporte.
 
----
-
-## 🚀 Portfolio Online
-
-🔗 Mi portfolio personal está alojado en GitHub Pages:  
-👉 [lucascastrom.github.io](https://lucascastrom.github.io)
-
-Incluye proyectos, contacto y experiencia.
-
----
-
 ## 🛠️ Tecnologías que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
