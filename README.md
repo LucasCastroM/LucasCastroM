@@ -43,7 +43,6 @@
 
 - 📧 Email: [lucascastromontano@gmail.com](mailto:lucascastromontano@gmail.com)
 - 💼 LinkedIn:[Lucas Agustín Castro Montaño](https://www.linkedin.com/in/lucas-agustín-castro-montaño-)
-- 🌎 Portfolio: [lucascastrom.github.io](https://lucascastrom.github.io)
 
 ---
 
